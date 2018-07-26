@@ -1,5 +1,6 @@
-requests 
+requests
 bs4
 pandas
-lxml==3.7.3
+lxml
 codecov
+openpyxl
